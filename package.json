@@ -1,0 +1,15 @@
+{
+  "name": "hacker-2026",
+  "version": "1.0.0",
+  "description": "Sample project for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.js"
+  },
+  "keywords": ["test", "sample", "demo"],
+  "author": "Developer",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  }
+}
