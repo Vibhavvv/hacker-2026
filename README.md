@@ -1,25 +1,15 @@
-# hacker-2026
+# Hacker 2026
 
-Welcome to the hacker-2026 repository! 🚀
+This repository contains implementation for various features.
 
-## About
-This repository contains exciting projects and code for 2026.
+## Recent Changes
 
-## Features
-- Sample feature 1
-- Sample feature 2
-- Enhanced documentation
+- PEAD-14548: [Please describe the changes based on JIRA ticket requirements]
 
-## Getting Started
-1. Clone the repository
-2. Install dependencies
-3. Run the project
+## Setup
+
+[Add setup instructions here]
 
 ## Contributing
-Feel free to contribute to this project by submitting pull requests!
 
-## License
-MIT License
-
----
-*Last updated: 2024*
+[Add contributing guidelines here]
