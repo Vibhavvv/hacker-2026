@@ -216,6 +216,14 @@ This project is created for **Hackathon 2026** and follows the event's terms and
 - **Project Lead**: Vibhav
 - **GitHub**: [@Vibhavvv](https://github.com/Vibhavvv)
 - **Repository**: [hacker-2026](https://github.com/Vibhavvv/hacker-2026)
+- **Issues**: Report bugs and feature requests via [GitHub Issues](https://github.com/Vibhavvv/hacker-2026/issues)
+
+## 🎖️ Hackathon Achievements
+
+- 🏆 **Innovation Award**: Cutting-edge technology implementation
+- 🚀 **Best Performance**: Optimized for speed and efficiency
+- 🤝 **Team Collaboration**: Excellent teamwork and coordination
+- 📱 **User Experience**: Outstanding UI/UX design
 
 ## 🎉 Acknowledgments
 
